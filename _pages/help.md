@@ -2,12 +2,12 @@
 ---
 <br>
 <details>
-<summary> ## What to do on error message? </summary>
+## <summary> What to do on error message? </summary>
 First try again. If the error persists, close the app and retry after few minutes. If the error wasn't resolved after 30 minutes, try to contact us for assistance.
 </details>
 <details>
   
-<summary> ## How to manage or cancel subscriptions on App Store? </summary>
+## <summary> How to manage or cancel subscriptions on App Store? </summary>
 ### On your Apple device, open the Settings app:
 1.Tap your name, then tap Subscriptions.
 2.Tap the subscription that you want to manage.
