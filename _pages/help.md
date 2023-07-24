@@ -8,7 +8,7 @@ First try again. If the error persists, close the app and retry after few minute
 <details>
   
 <summary> ## How to manage or cancel subscriptions on App Store? </summary>
-###On your Apple device, open the Settings app:
+### On your Apple device, open the Settings app:
 1.Tap your name, then tap Subscriptions.
 2.Tap the subscription that you want to manage.
 3.Choose a different subscription option, or tap Cancel Subscription if you want to cancel. If you don’t see Cancel Subscription, the subscription is already canceled and won't renew.
